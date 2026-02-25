@@ -1,2 +1,2 @@
-# eriklindmanmata.github.io
-theme: jekyll-theme-minimal
+# Erik 
+
